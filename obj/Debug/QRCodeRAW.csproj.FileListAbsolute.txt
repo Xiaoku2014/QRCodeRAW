@@ -1,0 +1,16 @@
+D:\QRCodeRAW\bin\Debug\QRCodeRAW.exe.config
+D:\QRCodeRAW\bin\Debug\QRCodeRAW.exe
+D:\QRCodeRAW\bin\Debug\QRCodeRAW.pdb
+D:\QRCodeRAW\bin\Debug\zxing.dll
+D:\QRCodeRAW\bin\Debug\zxing.presentation.dll
+D:\QRCodeRAW\bin\Debug\zxing.xml
+D:\QRCodeRAW\bin\Debug\zxing.presentation.xml
+D:\QRCodeRAW\obj\Debug\QRCodeRAW.csproj.AssemblyReference.cache
+D:\QRCodeRAW\obj\Debug\QRCodeRAW.Form1.resources
+D:\QRCodeRAW\obj\Debug\QRCodeRAW.Form2.resources
+D:\QRCodeRAW\obj\Debug\QRCodeRAW.Properties.Resources.resources
+D:\QRCodeRAW\obj\Debug\QRCodeRAW.csproj.GenerateResource.cache
+D:\QRCodeRAW\obj\Debug\QRCodeRAW.csproj.CoreCompileInputs.cache
+D:\QRCodeRAW\obj\Debug\QRCodeRAW.csproj.Up2Date
+D:\QRCodeRAW\obj\Debug\QRCodeRAW.exe
+D:\QRCodeRAW\obj\Debug\QRCodeRAW.pdb
