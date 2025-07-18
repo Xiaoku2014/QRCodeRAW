@@ -45,7 +45,7 @@ namespace QRCodeRAW
             {
                 MessageBox.Show("请输入要生成二维码的数据");
             }
-            pictureBox2.Image = BarcodeHelper.Generate1("https://p.12306.cn/tservice/qr/travel/v1?c="+textBox2.Text+"-"+ textBox3.Text + "-"+textBox4.Text+"-&w=h", 160, 140);
+            pictureBox2.Image = BarcodeHelper.Generate1("https://p.12306.cn/tservice/qr/travel/v1?c="+textBox2.Text+"-"+ textBox3.Text + "-"+textBox4.Text+"&w=h", 160, 140);
             
             saveFileDialog1.ShowDialog();
             string filename = saveFileDialog1.FileName;
