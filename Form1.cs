@@ -55,9 +55,15 @@ namespace QRCodeRAW
         private void radioButton2_CheckedChanged(object sender, EventArgs e)
         {
            
-           Form2 form = new Form2();
-            form.Show();
+           this.Hide();
+            Form2 form2 = new Form2();
+            form2.Show();
            
+
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
 
         }
     }

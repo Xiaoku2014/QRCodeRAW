@@ -36,7 +36,7 @@ namespace QRCodeRAW
                 return;
             }
             Bitmap myBitmap = new Bitmap(textBox1.Text);
-            this.textBox2.Text = BarcodeHelper.DecodeQrCode(myBitmap);// ((Bitmap)this.pictureBox1.Image);
+            this.textBox5.Text = BarcodeHelper.DecodeQrCode(myBitmap);// ((Bitmap)this.pictureBox1.Image);
         }
 
         private void button3_Click(object sender, EventArgs e)
@@ -54,9 +54,15 @@ namespace QRCodeRAW
 
         private void radioButton1_CheckedChanged(object sender, EventArgs e)
         {
+            this.Hide();
             Form1 form = new Form1();
             form.Show();
 
+        }
+
+        private void Form2_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            System.Environment.Exit(0);
         }
     }
 }
